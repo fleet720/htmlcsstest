@@ -1,0 +1,17 @@
+.container{
+    width:500px;
+    margin:0 auto;
+    background: #004466;
+    padding: 30px;
+    display: flex;
+    justify-content:space-between;
+  }
+  .item{
+    width: 100px;
+    background: #00ffa2;
+    color: pink;
+    font-size: 36px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left:10px;
+  }
